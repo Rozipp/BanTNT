@@ -1,0 +1,5 @@
+name: BanTNT
+version: '${version}'
+main: ua.rozipp.bantnt.BanTNT
+api-version: 1.16
+depend: [RCore]
